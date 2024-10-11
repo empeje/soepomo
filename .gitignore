@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+
+# IDE
+# I'd like to leave any developer free to use whatever IDE they want, but I'm using IntelliJ IDEA.
+.idea/
